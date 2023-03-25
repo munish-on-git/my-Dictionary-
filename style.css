@@ -1,0 +1,82 @@
+
+.nav-bar{
+    padding: 20px;
+    background: rgb(52, 52, 75);
+}
+.nav-bar a {
+    padding: 10px 40px;
+    text-decoration: none;
+    color:#ECECEC;
+}
+.ls{
+    float: right;
+}
+.logo{
+
+}
+.info{
+    background:#eeeeee;
+    padding: 10px;
+    line-height: 1.6;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    
+}
+.p-h1{
+    color:rgb(75, 75, 192)
+}
+
+.search{
+    padding: 70px 50px;
+    text-align: center;
+    background: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Circle-Simple-Background-Image-1.jpg");
+    background-size: 100% 280px;
+    background-repeat: no-repeat;
+    height:150px;
+   
+}
+
+.search-bar{
+    font-size: larger;
+    padding:15px;
+    width: 700px;
+    border: none;
+    border-radius: 50px;
+    background:#ECECEC;
+}
+.search-btn{
+    font-size: larger;
+    padding: 15px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 5px;
+    background:#d9d20e;
+
+}
+.image-div{
+    display:inline-block;
+    
+}
+
+.img{
+   border-radius: 30px;
+    height:170px;
+    position: absolute;
+    top:100px;
+    left:120px;
+   
+
+}
+.new-words{
+    background:#ECECEC;
+    padding: 10px;
+    line-height: 1.6;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    margin:1px;
+}
+
+.background{
+    background:#b7cdde;
+    padding:10px;
+}

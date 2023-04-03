@@ -1,4 +1,8 @@
-
+.containner{
+    width:100%;
+    height:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .nav-bar{
     padding: 20px;
     background: rgb(52, 52, 75);
@@ -79,4 +83,36 @@
 .background{
     background:#b7cdde;
     padding:10px;
+}
+
+.footer{
+background: rgb(52, 52, 75);
+padding:30px;
+
+}
+.f-a{
+    color:#ECECEC;;
+    padding:  0px 20px;
+    text-decoration: none;
+}
+.f-p{
+    float: right;
+}
+.search-data{
+    /* text-align:center; */
+    margin: 0 400px;
+}
+.speech{
+    padding: 0;
+    margin:0;
+}
+.word{
+    padding: 0;
+    margin:0;
+}
+.word-hr{
+    color:#d9d20e;
+}
+.antonyms{
+float: right;
 }

@@ -6,6 +6,8 @@
 .nav-bar{
     padding: 20px;
     background: rgb(52, 52, 75);
+    /* position: fixed;
+    width: 100%; */
 }
 .nav-bar a {
     padding: 10px 40px;
@@ -37,6 +39,7 @@
     background-size: 100% 280px;
     background-repeat: no-repeat;
     height:150px;
+    
    
 }
 
@@ -87,11 +90,15 @@
 
 .footer{
 background: rgb(52, 52, 75);
-padding:30px;
+padding:20px 0px;
+position: fixed;
+bottom: 0;
+width: 100%;
+
 
 }
 .f-a{
-    color:#ECECEC;;
+    color:#ECECEC;
     padding:  0px 20px;
     text-decoration: none;
 }
@@ -113,6 +120,4 @@ padding:30px;
 .word-hr{
     color:#d9d20e;
 }
-.antonyms{
-float: right;
-}
+
